@@ -13,9 +13,9 @@ This project is a simple AI-based greeting agent created using Python.
 - VS Code
 
 ## Files in this Repository
-- greeting_ai_agent.py → Python code
+- Greeting AI agent.py → Python code
 - Screenshots → Code screenshot & Output screenshot
-- PPT.pdf → Project report
+- Greeting AI Agent.pdf → Project report
 
 ## Author
 Agalya 
